@@ -3,7 +3,7 @@
 Mineração de dados da base de dados da CVM.
 
 O código tem como objetivo:
- - Capturar os balanços dos seguintes documentos das empresas de capital aberto.
+ - Capturar os balanços dos seguintes documentos das empresas de capital aberto de 2011 até 2022.
      - Balanço Patrimonial Ativo (BPA)
      - Balanço Patrimonial Passivo (BPP)
      - Demonstração de Resultado (DRE)
