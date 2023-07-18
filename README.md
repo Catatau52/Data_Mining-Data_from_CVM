@@ -9,6 +9,7 @@ O código tem como objetivo:
      - Demonstração de Resultado (DRE)
      - Demonstração de Valor Adicionado (DVA)
  - Filtrar os principais balanços dos documentos.
+     - A escala da moeda de todos os resultados está em 'MIL', ou seja, basta multiplicar alguns valores por 1000.
  - Criar um novo data frame com indicadores fundamentalistas a partir dos resultados dos balanços que sejam idenpendentes do preço (preço da lib Yahoo finance contem erros :/ )
  - Legenda. (Os indicaores foram retirados de diversas fontes públicas na internet, para serem aplicadas em um modelo matemático no futuro.)
      - VPA = Valor Patrimonial por Ação
