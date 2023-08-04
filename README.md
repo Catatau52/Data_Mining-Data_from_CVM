@@ -1,6 +1,6 @@
 # Data_Mining-Data_from_CVM
 
-Mineração de dados dos balanços que as empresas de capital aberto reportam à da CVM.
+Mineração de dados dos balanços que as empresas de capital aberto reportam à CVM.
 
 O código tem como objetivo:
  - Capturar os balanços dos seguintes documentos das empresas de capital aberto de 2011 até 2022.
