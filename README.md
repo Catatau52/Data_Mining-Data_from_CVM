@@ -13,7 +13,8 @@ O código tem como objetivo:
  - Criar um novo data frame com indicadores fundamentalistas a partir dos resultados dos balanços que sejam idenpendentes do preço (preço da lib Yahoo finance contem erros :/ )
  - Legenda. (Os indicaores foram retirados de diversas fontes públicas na internet, para serem aplicadas em um modelo matemático no futuro.)
      - VPA = Valor Patrimonial por Ação
-     - LPA = Lucro por Ação
+     - LPA_BASE = Lucro por Ação fornecido no balanço
+     - LPA_CALC = Lucro por Ação Calculado atráves do (Lucro / Númeroe de ações)
      - PAYOUT = Distribuição de lucros aos acionistas (Dividendos + Juros por Capital próprio)
      - PL/ATIVOS = Patrimônio Líquido / Ativos
      - PASSIVOS/ ATIVOS = 
@@ -29,4 +30,10 @@ O código tem como objetivo:
      - MLO = EBIT / Receita
      - MLL = Lucro / Receita
      - VLE = Variação do lucro trimestral.
+     - Ações_ON = Número de ações ordinárias
+     - Ações_PN = Número de ações preferências 
+     - Tes_ON = Número de ações ordinárias em tesouraria
+     - Tes_ON = Número de ações preferências em tesouraria
+     - FREE_FLOAT = Número de ações disponíveis - o Número de ações em tesouraria (Falta identificar os controladores relevantes)
+     - TOTAL_ACOES = Número total de ações 
    
